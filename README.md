@@ -13,7 +13,7 @@ The model successfully identified different types of Drake songs, including:
 - Mainstream hits
 - Outlier or mixed-style tracks
 
-This demonstrates how clustering can be used in recommendation systems to group songs by “vibe” rather than just artist.
+This demonstrates how clustering can be used in recommendation systems to group songs by vibe rather than just artist.
 
 ## Methods Used
 - Data preprocessing with pandas  
