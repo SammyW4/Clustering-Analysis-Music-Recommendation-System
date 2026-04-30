@@ -1,4 +1,4 @@
-# INST-414-Module-4-Assignment
+# lustering Analysis – Music Recommendation System
 # Music Clustering Analysis (Drake-Based)
 
 This project uses K-Means clustering to group songs based on audio features and identify different listening patterns within Drake-related music.
